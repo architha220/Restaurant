@@ -1,0 +1,4 @@
+fastapi
+./__pyache__
+restaurant.db
+*pyc
